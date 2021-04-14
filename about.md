@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Joe. I live in London and I am, among other things, a professional software developer specialising in Python and Django. I've been doing things with computers since the 1980s, and developing professionally in Python since 2006.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I also dabble in various aspects of video production, and have written a few related bits and pieces in C / C++.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Until recently I was working for The World Food Programme, the world's largest humanitarian organization and winner of the 2020 Nobel Peace Prize.
