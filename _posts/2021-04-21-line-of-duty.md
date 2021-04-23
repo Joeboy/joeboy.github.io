@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Line of Duty"
-date:   2021-04-21 11:30:17 +0100
+date:   2021-04-21 13:30:17 +0100
 categories: blog
 tags: entertainment current-affairs
 ---
@@ -14,9 +14,9 @@ My reservation is that a programme about police corruption could maybe take itse
 
 For a more grounded experience you could try following the ongoing [Undercover Policing Inquiry](https://www.ucpi.org.uk/), which is livestreaming some of its [evidence hearings](https://www.ucpi.org.uk/evidence-hearings/). 
 
-You'll hear about an ever increasing number undercover officers using their cover identities to have sexual relationships, often with people completely unconnected with the political movements they were infiltrating. They were given significant budgets to maintain these covers.
+You'll hear about an ever increasing number undercover officers using their cover identities to have sexual relationships, often with people completely unconnected with the political movements they were infiltrating. They were given large budgets to maintain these covers.
 
-You'll hear that at least two undercover police officers fathered children with unsuspecting women. These men feined commitment, then later engineered disappearances with the police force's assistance and resources, leaving their supposed partners to pick up the pieces.
+You'll hear that at least four undercover police officers fathered children with unsuspecting women. These men feined commitment, then later engineered disappearances with the police force's assistance and resources, leaving their supposed partners to pick up the pieces.
 
 This morning you would have heard about a woman being contacted only six years into the inquiry, as the officer involved had forgotten her name.
 
