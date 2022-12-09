@@ -19,7 +19,7 @@ Build python 3.5:
     git clone git@github.com:python/cpython.git
     cd cpython
     git checkout 3.5
-    ./configure --prefix=$HOME/python35
+    ./configure --prefix=$HOME/python35 --with-ssl  # you probably want ssl so you can download packages
     make
     make install
 
