@@ -24,7 +24,7 @@ Not at all, please bring ideas, even finished short scripts if you like! But als
 
 ## When will the shoots be?
 
-Currently, the plan is 10am-6pm every other Saturday. If that doesn't seem to be working out we can rethink. First shoot will be Sunday February the 8th (because there's a rail strike on the Saturday). Of course, there's no requirement to show up for every shoot (I probably won't be doing that).
+Currently, the plan is 10am-6pm every other Saturday. If that doesn't seem to be working out we can rethink. First shoot will be Sunday January the 8th (because there's a rail strike on the Saturday). Of course, there's no requirement to show up for every shoot (I probably won't be doing that).
 
 ## Where will the shoots be?
 
