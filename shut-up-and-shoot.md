@@ -57,7 +57,7 @@ Let's make our best effort at creating something good. Let's try to maintain a f
 
 ## What can I reasonably hope to get out of this?
 
-* *Maybe* a great finished short film you're proud of (though honestly this is a stretch goal)
+* *Maybe* a great finished short film you're proud of. We can at least aim for this, but the idea is to not worry too much if it doesn't work out.
 * More realistically, a somewhat rough and ready short film, maybe with some clips that are worthy of a showreel
 * Practice, and experience of working on a (small) set
 * The freedom to try stuff out in a low-stakes enviroment.
