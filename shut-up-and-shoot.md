@@ -29,7 +29,7 @@ Currently, the plan is 10am-6pm every other Saturday. If that doesn't seem to be
 
 ## Where will the shoots be?
 
-At least for the first shoot, we can meet at my flat (address will be shared less publicly), and either film there or go out, or both. It's currently winter so being outdoors all day isn't ideal. Bring warm clothes, in case of outdoor filming.
+At least for the first shoot, we can meet at my flat (Manor Park area, address will be shared less publicly), and either film there or go out, or both. It's currently winter so being outdoors all day isn't ideal. Bring warm clothes, in case of outdoor filming. My thinking is to keep the group mostly local to East London, with the option of travelling further afield for shoots if we want.
 
 ## Who's in charge?
 
