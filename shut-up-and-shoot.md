@@ -21,7 +21,7 @@ It'll be up to whoever's directing on the day, but for example you could:
 
 ## Does everything have to be made up on the day?
 
-Not at all, please bring ideas, even finished short scripts if you like! But also be prepared to work on somebody else's idea, and of course consider that whatever we do has to be doable by whoever shows up on the day. Feel free to share ideas in the WhatsApp group before the shoot.
+Not at all, please bring ideas, even finished short scripts if you like! But also be prepared to work on somebody else's idea, and of course consider that whatever we do has to be doable by whoever shows up on the day. Feel free to share ideas in the WhatsApp group before the shoot. Making it up on the day is the default / fallback option.
 
 ## When will the shoots be?
 
