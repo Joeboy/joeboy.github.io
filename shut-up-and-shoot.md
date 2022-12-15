@@ -29,7 +29,7 @@ Currently, the plan is 10am-6pm every other Saturday. If that doesn't seem to be
 
 ## Where will the shoots be?
 
-At least for the first shoot, we can meet at my flat (Manor Park area, address will be shared less publicly), and either film there or go out, or both. It's currently winter so being outdoors all day isn't ideal. Bring warm clothes, in case of outdoor filming. My thinking is to keep the group mostly local to East London, with the option of travelling further afield for shoots if we want.
+At least for the first shoot, we can meet at my flat (Manor Park area, address will be shared less publicly), and either film there or go out, or both. It's currently winter so being outdoors all day isn't ideal. Bring warm clothes, in case of outdoor filming. My thinking is to keep the group mostly local to East London, with the option of traveling further afield for shoots if we want.
 
 ## Who's in charge?
 
@@ -60,7 +60,7 @@ Let's make our best effort at creating something good. Let's try to maintain a f
 * *Maybe* a great finished short film you're proud of. We can at least aim for this, but the idea is to not worry too much if it doesn't work out.
 * More realistically, a somewhat rough and ready short film, maybe with some clips that are worthy of a showreel
 * Practice, and experience of working on a (small) set
-* The freedom to try stuff out in a low-stakes enviroment.
+* The freedom to try stuff out in a low-stakes environment.
 * The fun and / or challenge of working with a small group of driven, focused collaborators in a constrained situation
 
 ## Anything else?
