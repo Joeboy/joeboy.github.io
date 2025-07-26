@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Filmhose - Listings for London's independent and arts cinemas"
-date:   2025-07-26 19:30:17 +0100
+date:   2025-07-26 13:30:17 +0100
 categories: blog
 tags: movies, films, london, listings, repertory
 ---
