@@ -28,6 +28,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Pages in this unlinked project folder share the same layout and search hint.
+defaults:
+  - scope:
+      path: "patchula-4fb98150378dea87"
+    values:
+      layout: page
+      private_project: true
+      sitemap: false
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
