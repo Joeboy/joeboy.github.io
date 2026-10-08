@@ -251,8 +251,8 @@ to be a yawning gap in the market for a generic, inexpensive, mass-produced
 audio device that can be programmed either by end-users (at a high level) or
 product developers (perhaps at a lower level). Such a device would open up
 worlds of custom audio design to musicians without strong technical backgrounds
-or deep pockets, and also provide software plugin developers with a route to
-easily port their work to hardware.
+or deep pockets, and also software plugin developers a route to easily port
+their work to hardware.
 
 <script>
   (() => {
