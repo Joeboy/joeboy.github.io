@@ -223,7 +223,7 @@ software specifically for it.
 
 So, there are already expensive, powerful, luxury units for musicians, and there
 are already platforms for technical users. What's missing is a basic,
-inexpensive, musician-friendly option. On the initial "basic" iteration won't be
+inexpensive, musician-friendly option. The initial "basic" iteration won't be
 able to do everything the high-end units can do, but we can do a lot of cool
 stuff at a fraction of the price. And we can make it easier to use than the
 "engineer-friendly" options.
@@ -246,11 +246,13 @@ I should share some limitations, in case anybody gets overexcited.
 
 This write-up is probably a bit heavy on theory and light on audiovisual
 excitement. I'll try to put together a video demo soon. But I think the broader
-idea _is_ quite interesting, beyond the specifics of the hardware and software.
-There seems to be a yawning gap in the market for a generic, inexpensive,
-mass-produced audio device that can be programmed either by end-users or product
-developers. Such a device would open up worlds of custom audio design to
-musicians without strong technical backgrounds or deep pockets.
+idea _is_ quite interesting, beyond the specifics of our software. There seems
+to be a yawning gap in the market for a generic, inexpensive, mass-produced
+audio device that can be programmed either by end-users (at a high level) or
+product developers (perhaps at a lower level). Such a device would open up
+worlds of custom audio design to musicians without strong technical backgrounds
+or deep pockets, and also provide an opportunity for software plugin developers
+to easily port their work to hardware.
 
 <script>
   (() => {
